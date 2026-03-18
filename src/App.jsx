@@ -269,7 +269,7 @@ function Hero() {
           opacity: loaded ? 1 : 0, transform: loaded ? "translateY(0)" : "translateY(15px)",
           transition: "all 1s cubic-bezier(0.16,1,0.3,1) 0.3s"
         }}>
-          Website, Copy & Design Studio
+          Website Copy & Website Development
         </div>
 
         {/* Main title */}
