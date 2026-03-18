@@ -402,7 +402,7 @@ function About() {
                 <span style={{ color: "#CFAF73", fontSize: "8px", marginTop: 8, flexShrink: 0 }}>◆</span>
                 <span style={{
                   fontFamily: "'Montserrat', sans-serif", fontSize: "13px",
-                  color: "rgba(235,228,218,0.65)", letterSpacing: "0.5px", lineHeight: 1.7
+                  color: "rgba(235,228,218,0.65)", letterSpacing: "0.5px", lineHeight: 1.7, fontWeight: 500
                 }}>{item}</span>
               </div>
             ))}
